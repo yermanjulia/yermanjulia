@@ -1,8 +1,8 @@
 # Hello there, I'm Julia! 👋
 
-I'm a Frontend Developer & QA Engineer with years of experience in tech. Specializing in frontend development, I use HTML5, CSS, JavaScript, Bootstrap, React, and React Native to create responsive web and mobile applications. 
+I'm a Frontend Developer & QA Engineer with years of experience in tech. Specializing in frontend development, I use HTML5, CSS, JavaScript, Bootstrap, React, and React Native to create responsive web and mobile applications.
 
-As a strong proponent for women in tech, I actively support initiatives empowering women in STEM fields and enjoy fostering a more diverse, inclusive tech industry. I'm eager to explore new technologies, continue learning, and collaborate to create solutions that make a positive impact. 
+As a strong proponent for women in tech, I actively support initiatives empowering women in STEM fields and enjoy fostering a more diverse, inclusive tech industry. I'm eager to explore new technologies, continue learning, and collaborate to create solutions that make a positive impact.
 
 - 👩‍💻 Currently working as a Frontend Developer
 - 🌐 React & React Native Specialist
@@ -30,5 +30,8 @@ As a strong proponent for women in tech, I actively support initiatives empoweri
 
 ## 🌟 About Me:
 I am always excited to learn new things, explore emerging technologies, and work collaboratively to build solutions that have a positive impact on the world. Let's connect and create amazing things together!
+
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yermanjulia&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yermanjulia&layout=compact&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=yermanjulia&color=blue)
