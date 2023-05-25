@@ -12,6 +12,9 @@ As a strong proponent for women in tech, I actively support initiatives empoweri
 - 📬 Reach out via Email: [Yerman.Julia@gmail.com](mailto:Yerman.Julia@gmail.com)
 - 🗓️ Schedule a call: [Calendly](https://calendly.com/julia-yerman)
 - 📝 Check out my articles on [Medium](https://medium.com/@yerman.julia)
+- 📷 Follow me on [Instagram](https://www.instagram.com/fromqatodev/)
+- 🌐 Visit my [Personal Website](https://fromqato.dev)
+- 🎥 Watch me on [TikTok](https://www.tiktok.com/@fromqatodev)
 
 ## 👩‍💻 Skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
