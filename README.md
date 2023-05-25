@@ -31,7 +31,7 @@ As a strong proponent for women in tech, I actively support initiatives empoweri
 ## 🌟 About Me:
 I am always excited to learn new things, explore emerging technologies, and work collaboratively to build solutions that have a positive impact on the world. Let's connect and create amazing things together!
 
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yermanjulia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yermanjulia&layout=compact&theme=radical)
+![Julia's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=yermanjulia&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yermanjulia&layout=compact&theme=transparent)
 
-![](https://komarev.com/ghpvc/?username=yermanjulia&color=blue)
+![](https://komarev.com/ghpvc/?username=yermanjulia&color=ff69b4)
