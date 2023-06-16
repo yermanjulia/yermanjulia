@@ -9,7 +9,7 @@ As a strong proponent for women in tech, I actively support initiatives empoweri
 - 🚀 Passionate about Web & Mobile Development
 - 👩‍💼 Women in Tech Advocate
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yermanjulia)
-- 📬 Reach out via Email: [Yerman.Julia@gmail.com](mailto:Yerman.Julia@gmail.com)
+- 📬 Reach out via Email: [julia@fromqato.dev](mailto:julia@fromqato.dev)
 - 🗓️ Schedule a call: [Calendly](https://calendly.com/julia-yerman)
 - 📝 Check out my articles on [Medium](https://medium.com/@yerman.julia)
 - 📷 Follow me on [Instagram](https://www.instagram.com/fromqatodev/)
